@@ -7,3 +7,4 @@ financials = stock.financials
 balance_sheet = stock.balance_sheet
 cashflow = stock.cashflow
 print(cashflow)
+#hi i'm caroline
